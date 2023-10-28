@@ -16,6 +16,9 @@
     "vue-router": "^4.2.5"
   },
   "dependencies": {
+    "@picocss/pico": "^1.5.10",
+    "ascii-faces": "^1.1.0",
+    "ascii-text-generator": "^1.0.5",
     "date-fns": "^2.30.0"
   }
 }
